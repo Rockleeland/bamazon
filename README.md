@@ -8,3 +8,7 @@ An interactive storefront that runs in the console using node. This storefront i
 
 ### BamazonCustomer.js Screenshot
 ![Customer](/images/customer.png?raw=true "Customer View")
+
+
+### MySQL updated screenshot
+![MySQL](/images/mysql.png?raw=true "MySQL")
